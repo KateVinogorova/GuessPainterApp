@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Guess A Painter</string>
+    <string name="heading">Guess A Painter</string>
+    <string name="exit">Exit</string>
+    <string name="help">Help</string>
+    <string name="close">Close</string>
+    <string name="start">Start Quiz</string>
+    <string name="finish">Finish</string>
+
+    <string name="page_2">2 of 7</string>
+    <string name="page_3">3 of 7</string>
+    <string name="page_4">4 of 7</string>
+    <string name="page_5">5 of 7</string>
+    <string name="page_6">6 of 7</string>
+    <string name="page_7">7 of 7</string>
+    <string name="page_1">1 of 7</string>
+
+    <string name="help_description">Each question of this quiz consists of a picture of one of the great artists of the 19th century
+        and one fact from the life of the artist who painted the picture. Under each question there is a hint button.
+        For the correct answer you get 2 points, 1 point is deducted for each hint used. Goof luck!</string>
+
+    <string name="question_1">1. Russian painter, he was a pioneer of geometric abstract art and the originator  of the avant-garde Suprematism.</string>
+    <string name="question_2">2. One of the greatest artists from Austria, the founder and leading figure in the Vienna Secession movement - the group of artists and craftsmen who rejected the conservative academic art.</string>
+    <string name="question_3">3. He was a top Post-Impressionist artist from France. He was a friend of Vincent Van Gogh. They painted together in Arles in 1888 for a period of two months and one week. </string>
+    <string name="question_4">4. One of the most well-known post-impressionist artists, for whom color was the chief symbol of expression. Painter with tragedic fate, he suffered recurrent bouts of mental illness, which led to his suicide. </string>
+    <string name="question_5">5. He was a unique painter. He was known for his dark prints, and paintings, and for being cruelly realistic in each one of them. He painted in a gory, macabre manner that frightened most people. </string>
+    <string name="question_6">6. This Armenian-Russian painter is by far most known for painting magnificent seascapes, and is considered to be among the best in this category, perhaps “the best” all of history</string>
+    <string name="question_7">7. She was considered one of Mexico\'s greatest artists. She nearly died in a bus accident as a teenager. She became politically active and married fellow communist artist Diego Rivera in 1929. </string>
+
+    <string name="picasso">Pablo Picasso</string>
+    <string name="malevich">Kazimir Malevich</string>
+    <string name="renoir">Pierre Renoir</string>
+    <string name="perov">Vasily Perov</string>
+    <string name="klimt">Gustav Klimt </string>
+    <string name="van_gogh">Vincent Van Gogh</string>
+    <string name="monet">Claude Monet</string>
+    <string name="rousseau">Henri Rousseau</string>
+    <string name="pissarro">Camille Pissarro </string>
+    <string name="degas">Edgar Degas</string>
+    <string name="rubens">Peter Paul Rubens</string>
+    <string name="gauguin">Paul Gauguin</string>
+    <string name="bernini">Gian Lorenzo Bernini</string>
+    <string name="goya">Francisco de Goya</string>
+    <string name="sanzio">Raphael Sanzio</string>
+    <string name="rembrandt">Rembrandt van Rijn</string>
+    <string name="dali">Salvador Dalí</string>
+    <string name="bryullov">Karl Bryullov</string>
+    <string name="aivazovsky">Ivan Aivazovsky</string>
+    <string name="kahlo">Frida Kahlo</string>
+    <string name="valadon">Suzanne Valadon</string>
+    <string name="von_werefkin">Marianne von Werefkin</string>
+    <string name="turner">J. M. W. Turner</string>
+
+    <string name="hint">Hint</string>
+    <string name="next">next</string>
+    <string name="title_activity_answer_2_">Answer_2_Activity</string>
+    <string name="title_activity_answer_5_">Answer_5_Activity</string>
+
+    <string name="hint_1">His the most famous picture is "Black Square"</string>
+    <string name="hint_2">In 1888 received the Golden order of Merit from Emperor Franz Josef I of Austria for his contributions to art"</string>
+    <string name="hint_3">His art became popular after his death, partially from the efforts of art dealer Ambroise Vollard, who organized exhibitions of his work late in his career and assisted in organizing two important posthumous exhibitions in Paris</string>
+    <string name="hint_4">He cut off his ear</string>
+    <string name="hint_5">There is a biography film about this painter that names "****'s Ghosts" with Natalie Portman</string>
+    <string name="hint_6">His the most famous picture is "The Ninth Vawe"</string>
+    <string name="hint_7">She mostly painted self-portraits</string>
+
+    <string name="congrats">Congratulations!</string>
+    <string name="score">Your score:</string>
+    <string name="comment_excellent">Excellent result! </string>
+    <string name="comment_not_bad">Not bad. But you can better. Try once again! </string>
+    <string name="comment_bad"> Very low result. You should try better!</string>
+
+</resources>
